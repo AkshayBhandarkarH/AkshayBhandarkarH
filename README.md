@@ -1,7 +1,6 @@
 # 🌟 **Hi, I'm Akshay Bhandarkar H!** 👋  
 ### **Web Developer | Problem Solver | Tech Enthusiast**  
-
-![Profile Banner](https://www.canva.com/design/DAGW_WpLubE/QSJQ-H6lG3BL49H1Y21x5w/view?utm_content=DAGW_WpLubE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)  
+![Profile Banner](https://via.placeholder.com/1200x400.png?text=THINK.+CODE.+INNOVATE?style=for-the-badge&logo=html5&logoColor=white)  
 
 ---
 
