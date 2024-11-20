@@ -41,7 +41,7 @@ I am a passionate Full Stack Web Developer with experience in building and maint
 |---------|-------------|------------|  
 | **[AirBnb Clone](#)** | Presently working on web app with all functionality. | React, Flask, PostgreSQL |  
 | **[Portfolio Website](#)** | A responsive portfolio showcasing my work. | HTML, CSS, JS, React |  
-| **[Retail Management System](#)** |A Full Stack web app for retail store manager to maintain his store stock, sales, income, expemditure | HTML, CSS , JS , Php |  
+| **[Retail Management System](#)** |A Full Stack web app for retail store manager to maintain his store Stock, Sales, Income, Expenditure | HTML, CSS , JS , Php , SQL |  
 
 ---
 
@@ -54,9 +54,8 @@ I am a passionate Full Stack Web Developer with experience in building and maint
 
 ### **🤝 Let's Connect**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay5619)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white)](https://akshaybhandarkarportfoli-59b2e.web.app/)
 
 ---
 
