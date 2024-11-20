@@ -1,7 +1,5 @@
 # 🌟 **Hi, I'm Akshay Bhandarkar H!** 👋  
 ### **Web Developer | Problem Solver | Tech Enthusiast**  
-![THINK.CODE.INNOVATE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 ---
 
