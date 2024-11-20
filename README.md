@@ -46,8 +46,8 @@ I am a passionate Full Stack Web Developer with experience in building and maint
 
 ### **📊 GitHub Stats**  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayBhandarkarH&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBhandarkarH&layout=compact&theme=radical)
 
 ---
 
