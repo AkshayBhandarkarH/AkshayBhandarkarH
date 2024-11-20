@@ -1,7 +1,7 @@
 # 🌟 **Hi, I'm Akshay Bhandarkar H!** 👋  
-### **Full Stack Web Developer | Problem Solver | Tech Enthusiast**  
+### **Web Developer | Problem Solver | Tech Enthusiast**  
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)  
+![Profile Banner](https://via.placeholder.com/1200x400.png?text=Coder+Bizz)  
 
 ---
 
